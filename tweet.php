@@ -29,7 +29,7 @@
     $cb = \codebird\Codebird::getInstance();
     $cb->setToken(ACCESS_TOKEN_KEY, ACCESS_TOKEN_SECRET);
 
-    $status = "{$word} is a bitch.";
+    $status = "{$word}.";
 
     $params = array(
       'status' => $status
