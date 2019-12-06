@@ -1,4 +1,4 @@
-# EveryWordIsABitch
+# Twitter Bot
 Calling every word in the english language a bitch
 
 ## How this works
