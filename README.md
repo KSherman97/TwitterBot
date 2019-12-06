@@ -1,5 +1,5 @@
 # Twitter Bot
-Calling every word in the english language a bitch
+Posting about every word in the english language 
 
 ## How this works
 This is a simple PHP script that reads the requested index from a file,
